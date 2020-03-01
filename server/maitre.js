@@ -1,7 +1,4 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
 const puppeteer = require('puppeteer');
-
 
 /**
  * Get all France located Maître restaurateur restaurants
@@ -12,6 +9,7 @@ module.exports.get = async () => {
   //const end=[];
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
+  await page.setDefaultNavigationTimeout(0); 
   await page.goto('https://www.maitresrestaurateurs.fr/annuaire/recherche');
   await page.click(
     '#zoneAnnuaire_layout > div > form > div.row.annuaire_row.bts > div.col-sm-offset-3.col-xs-6.text-center > input',
@@ -25,9 +23,9 @@ module.exports.get = async () => {
     var numbers =[]
 
     let named = document.querySelectorAll('div.annuaire_single div.single_desc div.single_libel a')
-    //let num = document.querySelector('#zoneAnnuaire_layout > div.row.annuaire_result > div.col-md-9 > div.annuaire_result_list > div.global-pagination > a.end');
-    //end = parseInt(num.getAttribute('data-page'));
-    //res.push(end);
+    let num = document.querySelector('#zoneAnnuaire_layout > div.row.annuaire_result > div.col-md-9 > div.annuaire_result_list > div.global-pagination > a.end');
+    const end = parseInt(num.getAttribute('data-page'));
+    list.push(end);
     named.forEach(e => { 
       let full_name =e.innerText
       let name = full_name.split('(')
@@ -62,12 +60,13 @@ module.exports.get = async () => {
   })
   restaurants.push(result)
  
-  //console.log(restaurants[0])
-  for(var i =1;i<50;i++){
+  //console.log(result[0])
+  for(var i =1;i<result[0];i++){
     await page.click(
     '#zoneAnnuaire_layout > div.row.annuaire_result > div.col-md-9 > div.annuaire_result_list > div.global-pagination > a.next',
     )
-    await page.waitFor(2000);
+    //await page.waitForNavigation();
+    await page.waitFor(3000);
     const resultat = await page.evaluate(() => {
       var li =[]
       var nam=[]

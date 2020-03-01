@@ -1,0 +1,407 @@
+[
+	{
+		"name": "Les Jardins du Léman",
+		"adress": "Grande-Rue, Yvoire, 74140, France",
+		"price": "25 - 80 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 50 72 80 32"
+	},
+	{
+		"name": "Le Manoir du Sphinx",
+		"adress": "67 chemin de la Messe, Perros-Guirec, 22700, France",
+		"price": "25 - 50 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 96 23 25 42"
+	},
+	{
+		"name": "Julien",
+		"adress": "Route de Strasbourg, Fouday, 67130, France",
+		"price": "24 - 60 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 3 88 97 30 09"
+	},
+	{
+		"name": "Le Chalet",
+		"adress": "4 avenue Durandeau, Ax-les-Thermes, 09110, France",
+		"price": "•  4 Avis ",
+		"type": "                            ",
+		"number": "+33 5 61 64 24 31"
+	},
+	{
+		"name": "Le Petit St-Thomas",
+		"adress": "25 rue de Lattre-de-Tassigny, La Garnache, 85710, France",
+		"price": "30 - 80 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 51 49 05 99"
+	},
+	{
+		"name": "Winstub du Chambard",
+		"adress": "9-13 rue du Général-de-Gaulle, Kaysersberg, 68240, France",
+		"price": "•  4 Avis ",
+		"type": "                            ",
+		"number": "+33 3 89 47 10 17"
+	},
+	{
+		"name": "Auberge de la Rivière",
+		"adress": "rue du Port-de-la-Fouarne, Velluire, 85770, France",
+		"price": "34 - 75 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 51 52 32 15"
+	},
+	{
+		"name": "Les Canailles Ménilmontant",
+		"adress": "15 rue des Panoyaux, Paris, 75020, France",
+		"price": "•  7 Avis ",
+		"type": "                            ",
+		"number": "+33 1 43 58 45 45"
+	},
+	{
+		"name": "La Closerie des Roses",
+		"adress": "455 La Haute-Meilleraie, Varades, 44370, France",
+		"price": "•  16 Avis ",
+		"type": "                            ",
+		"number": "+33 2 40 98 33 30"
+	},
+	{
+		"name": "Le Saint-Jacques",
+		"adress": "Place du Monument, Thorigné-sur-Dué, 72160, France",
+		"price": "33 - 60 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 43 89 95 50"
+	},
+	{
+		"name": "Le Grand St-Benoît",
+		"adress": "7 place St-André, Saint-Benoît-sur-Loire, 45730, France",
+		"price": "34 - 59 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 38 35 11 92"
+	},
+	{
+		"name": "Au Chapeau Rouge",
+		"adress": "49 place du Général-de-Gaulle, Chinon, 37500, France",
+		"price": "30 - 46 EUR",
+		"type": "                                 • Cuisine du terroir",
+		"number": "+33 2 47 98 08 08"
+	},
+	{
+		"name": "Maison Gambert",
+		"adress": "2 rue de la Petite-Pirelle, Tain-l'Hermitage, 26600, France",
+		"price": "•  26 Avis ",
+		"type": "                            ",
+		"number": "+33 4 75 09 19 85"
+	},
+	{
+		"name": "France et Fuchsias",
+		"adress": "20 rue du Maréchal-Foch, Saint-Vaast-la-Hougue, 50550, France",
+		"price": "33 - 83 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 33 54 40 41"
+	},
+	{
+		"name": "Côté Bistro",
+		"adress": "25 rue de Chambord, Montlivault, 41350, France",
+		"price": "32 EUR  ",
+		"number": "+33 2 54 20 62 30"
+	},
+	{
+		"name": "L'Embellie",
+		"adress": "le Bourg, Sainte-Cécile, 71250, France",
+		"price": "18 - 63 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 3 85 50 81 81"
+	},
+	{
+		"name": "Auberge de l'Île",
+		"adress": "3 place Bouchard, L'Île-Bouchard, 37220, France",
+		"price": "33 - 56 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 47 58 51 07"
+	},
+	{
+		"name": "La Table",
+		"adress": "1 traverse de Jas, Les Ribas, Tourtour, 83690, France",
+		"price": "29 - 82 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 94 70 55 95"
+	},
+	{
+		"name": "Auberge de Ti-Coz",
+		"adress": "4 Hent-Koz, Ty-Sanquer, 29000, France",
+		"price": "26 - 85 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 98 94 50 02"
+	},
+	{
+		"name": "Voyages des sens",
+		"adress": "33 rue Principale, Treffort, 01370, France",
+		"price": "14 - 69 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 74 51 39 94"
+	},
+	{
+		"name": "La Fleur de Sel",
+		"adress": "15 route du Portelin, Cevins, 73730, France",
+		"price": "•  3 Avis ",
+		"type": "                            ",
+		"number": "+33 4 79 37 49 98"
+	},
+	{
+		"name": "Ttotta",
+		"adress": "Espace Ibarrondoan, Saint-Pée-sur-Nivelle, 64310, France",
+		"price": "15 - 47 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 5 59 47 03 55"
+	},
+	{
+		"name": "La Forêt",
+		"adress": "22 rue de Verdun, Senonches, 28250, France",
+		"price": "18 - 70 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 37 37 78 50"
+	},
+	{
+		"name": "Hôtel de France",
+		"adress": "1 rue Marx-Dormoy, Montmarault, 03390, France",
+		"price": "•  7 Avis ",
+		"type": "                            ",
+		"number": "+33 4 70 07 60 26"
+	},
+	{
+		"name": "Bistrot des Anges",
+		"adress": "rue de l'Ouest, Le Cannet, 06110, France",
+		"price": "•  9 Avis ",
+		"type": "                            ",
+		"number": "+33 4 92 18 18 28"
+	},
+	{
+		"name": "La Pointe du Cap Coz",
+		"adress": "",
+		"price": "   Note Moyenne: 4,5 / 5",
+		"type": "                                    ",
+		"number": "+33 2 98 56 01 63"
+	},
+	{
+		"name": "La Table de Léo",
+		"adress": "Le Bourg, Saint-Avit-Sénieur, 24440, France",
+		"price": "33 - 42 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 5 53 57 89 15"
+	},
+	{
+		"name": "Chez Michel",
+		"adress": "10 rue de Belzunce, Paris, 75010, France",
+		"price": "35 - 38 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 1 44 53 06 20"
+	},
+	{
+		"name": "Au Raisin d'Or",
+		"adress": "1 rue de l'Église, Zimmerbach, 68230, France",
+		"price": "16 - 47 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 3 89 71 05 69"
+	},
+	{
+		"name": "Le Bon Accueil",
+		"adress": "1 rue de Laval, Richardménil, 54630, France",
+		"price": "32 - 65 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 3 83 25 62 10"
+	},
+	{
+		"name": "La Ruche",
+		"adress": "13 quai du Docteur-Jules-Bouvat, Saint-Péray, 07130, France",
+		"price": "24 - 35 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 9 82 40 44 38"
+	},
+	{
+		"name": "Cheval Blanc",
+		"adress": "1 rue de Bisel, Feldbach, 68640, France",
+		"price": "23 - 56 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 3 89 25 81 86"
+	},
+	{
+		"name": "Auberge des Deux Magots",
+		"adress": "1 place du Bouffay, La Roche-Bernard, 56130, France",
+		"price": "•  23 Avis ",
+		"type": "                            ",
+		"number": "+33 2 99 90 60 75"
+	},
+	{
+		"name": "L'Épicurien",
+		"adress": "42 place Jean-Jaurès, Albi, 81000, France",
+		"price": "22 - 55 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 5 63 53 10 70"
+	},
+	{
+		"name": "Auberge Pyrénées Cévennes",
+		"adress": "106 rue de la Folie-Méricourt, Paris, 75011, France",
+		"price": "•  2 Avis ",
+		"type": "                            ",
+		"number": "+33 1 43 57 33 78"
+	},
+	{
+		"name": "Le Rabelais",
+		"adress": "8 rue Auguste-Fabre, Saint-Chamas, 13250, France",
+		"price": "31 - 50 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 90 50 84 40"
+	},
+	{
+		"name": "Le Réciproque",
+		"adress": "14 rue Ferdinand-Flocon, Paris, 75018, France",
+		"price": "•  37 Avis ",
+		"type": "                            ",
+		"number": "+33 9 86 37 80 77"
+	},
+	{
+		"name": "Le Lancelot",
+		"adress": "12 rue des Déportés, Chilleurs-aux-Bois, 45170, France",
+		"price": "29 - 80 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 38 32 91 15"
+	},
+	{
+		"name": "Le St-Georges",
+		"adress": "4 boulevard Maréchal-Foch, Palavas-les-Flots, 34250, France",
+		"price": "33 - 65 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 67 68 31 38"
+	},
+	{
+		"name": "Coteaux et Fourchettes",
+		"adress": "Route de Violès, Cairanne, 84290, France",
+		"price": "28 - 79 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 90 66 35 99"
+	},
+	{
+		"name": "Auberge des Chenêts",
+		"adress": "10 route Nationale 6, Valloux, 89200, France",
+		"price": "29 - 66 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 3 86 34 23 34"
+	},
+	{
+		"name": "À la 12",
+		"adress": "6 place de la République, Delme, 57590, France",
+		"price": "14 - 70 EUR",
+		"type": "                                 • Cuisine créative",
+		"number": "+33 3 87 01 30 18"
+	},
+	{
+		"name": "La Griotte",
+		"adress": "3 rue des Cerisiers, Saules, 25580, France",
+		"price": "17 - 50 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 3 81 57 17 71"
+	},
+	{
+		"name": "La Maison",
+		"adress": "1 rue du 14-Juillet, Cognac, 16100, France",
+		"price": "34 - 86 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 5 45 35 21 77"
+	},
+	{
+		"name": "Histoire Ancienne",
+		"adress": "20 rue Royale, Calais, 62100, France",
+		"price": "23 - 63 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 3 21 34 11 20"
+	},
+	{
+		"name": "Au Colombier",
+		"adress": "126 allée Colombier, Anse, 69480, France",
+		"price": "26 - 69 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 74 67 04 68"
+	},
+	{
+		"name": "Manoir de la Pommeraie",
+		"adress": "L'Auvère, Vire, 14500, France",
+		"price": "33 - 58 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 31 68 07 71"
+	},
+	{
+		"name": "Les Épices Curiens",
+		"adress": "3b place de la Gare, Écouviez, 55600, France",
+		"price": "30 - 72 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 3 29 86 84 58"
+	},
+	{
+		"name": "Le Dauphin",
+		"adress": "29 rue Gemare, Caen, 14000, France",
+		"price": "•  11 Avis ",
+		"type": "                            ",
+		"number": "+33 2 31 86 22 26"
+	},
+	{
+		"name": "La Maison Carrier",
+		"adress": "44 route du Bouchet, Chamonix-Mont-Blanc, 74400, France",
+		"price": "33 - 72 EUR",
+		"type": "                                 • Cuisine régionale",
+		"number": "+33 4 50 53 00 03"
+	},
+	{
+		"name": "Les Capucins",
+		"adress": "20 faubourg de Montbéliard, Belfort, 90000, France",
+		"price": "•  7 Avis ",
+		"type": "                            ",
+		"number": "+33 3 84 28 04 60"
+	},
+	{
+		"name": "La Table d'Aimé",
+		"adress": "4 Rue Francisco Ferrer, Rivesaltes, 66600, France",
+		"price": "29 - 34 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 68 34 35 77"
+	},
+	{
+		"name": "L'Arche de Meslay",
+		"adress": "14 rue des Ailes, Parçay-Meslay, 37210, France",
+		"price": "23 - 75 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 47 29 00 07"
+	},
+	{
+		"name": "Vidal",
+		"adress": "Place du Marché, Saint-Julien-Chapteuil, 43260, France",
+		"price": "31 - 80 EUR",
+		"type": "                                 • Cuisine du terroir",
+		"number": "+33 4 71 08 70 50"
+	},
+	{
+		"name": "La Balade des Saveurs",
+		"adress": "3 quai Jean-Jaurès, L'Isle-sur-la-Sorgue, 84800, France",
+		"price": "20 - 54 EUR",
+		"type": "                                 • Cuisine traditionnelle",
+		"number": "+33 4 90 95 27 85"
+	},
+	{
+		"name": "Ar Maen Hir",
+		"adress": "15 bis rue du Prieuré, Locronan, 29180, France",
+		"price": "19 - 45 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 2 56 10 18 37"
+	},
+	{
+		"name": "Le Jardin d'Alice",
+		"adress": "1098 route de Lillers, Busnes, 62350, France",
+		"price": "•  7 Avis ",
+		"type": "                            ",
+		"number": "+33 3 21 68 88 88"
+	},
+	{
+		"name": "Le Bastion",
+		"adress": "50 boulevard de la Promenade, Lagrasse, 11220, France",
+		"price": "21 - 52 EUR",
+		"type": "                                 • Cuisine moderne",
+		"number": "+33 4 68 12 02 51"
+	}
+]

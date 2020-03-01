@@ -1,0 +1,131 @@
+
+.container {
+  background-image: url(./restaurant.jpg);
+
+}
+.container.bib{
+  background-color: #122d86b4;
+}
+/*Bar */
+.form-control {
+ 
+  padding: 5px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.header-wrapper{
+  display: block;
+  width: 100%;
+  background-color: #0a2a83;
+  top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+ul {
+  float: right;
+}
+.navbar {
+  top: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #fafafa;
+  
+}
+
+.logo img{float:left;}
+.logo.bib {
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  height: 50px;
+  margin-right: 20px;
+  margin-top: 0px;    /* if you want it vertically middle of the navbar. */
+} 
+.logo.x {
+  display: inline-block;
+  vertical-align: top;
+  width: 30px;
+  height: 25px;
+  margin-right: 0px;
+  margin-top: 10px;    /* if you want it vertically middle of the navbar. */
+}
+.logo.maitre {
+  display: inline-block;
+  vertical-align: top;
+  width: 70px;
+  height: 45px;
+  margin-right: 0px;
+  margin-top: 0px;    /* if you want it vertically middle of the navbar. */
+} 
+
+.form-inline {
+  display: inline-block;
+  margin-left: 20em;
+}
+
+
+li {
+  float: left;
+  list-style-type: none;
+}
+
+li a {
+  
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 0px 18px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+/*TEXT*/
+
+p.intro {
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 40px;  
+  color: rgb(231, 221, 221);
+  text-align:center ;
+  font-family:American Typewriter, serif;
+  font-style: oblique;
+  font-weight: bolder;
+  font-variant: small-caps;
+  background-color: transparent;
+}
+
+/*Restaurants*/
+
+h1 {
+  background-color: #ffff;
+  color: rgb(16, 40, 121);
+  font-size: 20px; 
+  font-family:American Typewriter, serif;
+  font-style: oblique;
+}
+
+p {
+  background-color: #ffff;
+  color: rgb(16, 40, 121);
+  display: inline-block;
+  margin: 10;
+  padding: 5px 10px;
+  
+}
+
+.restaurant {
+  background-color: #ffff;
+}
+.map {
+  width: '100%';
+  height: '100%';
+}
+

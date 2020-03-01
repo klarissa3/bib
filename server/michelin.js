@@ -25,20 +25,15 @@ const parse_link = data => {
 const parse = data => {
   const $ = cheerio.load(data);
   const list =[];
-  const restaurant = {
-    name: " ",
-    adress: " ",
-    price: " ",
-    type: " ",
-    number: " "
-  };
-  restaurant.name = $('.restaurant-details__heading.d-lg-none h2.restaurant-details__heading--title').text();
   const str = $('.restaurant-details__heading.d-lg-none ul.restaurant-details__heading--list li').text();
   const tab = str.split('\n');
-  restaurant.adress = tab[0];
-  restaurant.price = tab[2].trim() +' '+ tab[4].trim() +' '+ tab[5].trim() +' '+ tab[7].trim();
-  restaurant.type = tab[9];
-  restaurant.number = $('.d-flex span.flex-fill').text().substring(0,17);
+  const restaurant = {
+    name: $('.restaurant-details__heading.d-lg-none h2.restaurant-details__heading--title').text(),
+    adress: tab[0],
+    price: tab[2].trim() +' '+ tab[4].trim() +' '+ tab[5].trim() +' '+ tab[7].trim(),
+    type: tab[9],
+    number: $('.d-flex span.flex-fill').text().substring(0,17)
+  };
   list.push(restaurant);
   return list;
 };
